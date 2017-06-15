@@ -2,6 +2,8 @@
 
 Our customized HTML reporter
 
+![alt screenshot](https://www.evernote.com/l/AOu9Nx5FyDVHR7JLPekIz6peghFedZwuwWkB/image.png)
+
 ## Installing
 
 * Download as Zip File
