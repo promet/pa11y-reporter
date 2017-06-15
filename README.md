@@ -8,8 +8,9 @@ Our customized HTML reporter
 
 * Download as Zip File
 * Locate your Pa11y core folder - for now (TODO - move as module? )
-* Example to locate: `which pa11y`
-* Extract the files under reporter folder (/usr/local/lib/node_modules/pa11y/repoter) - maybe you have different location.
+* Example to locate: `which pa11y` - this will give you the shortcut link, you need to execute `ls -l` the original location.
+* Extract the files under reporter folder (/usr/local/lib/node_modules/pa11y/reporter) - maybe you have different location.
+* Fina path should be like `/usr/local/lib/node_modules/pa11y/reporter/promet_reporter`.
 
 ```
 pa11y -r promet_reporter URL > FILENAME.html
